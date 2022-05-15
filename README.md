@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @suraj-rsys
+- 👋 Hi, I’m suraj
 - 👀 I’m interested in Python | Django | React
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on React
